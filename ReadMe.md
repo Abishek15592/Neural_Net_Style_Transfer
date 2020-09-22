@@ -25,3 +25,6 @@ The VGG-19 model has 5 blocks with each block having some convolutional layer fo
     - And we also set the model.trainable to false as we don't want the model to update its parameters but just want to use it as such in our project.
 
     - Also run model.summary() to see the summary of the VGG-19 model.
+<li> Importing other modules</li><br>
+
+    - 
